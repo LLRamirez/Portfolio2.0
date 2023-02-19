@@ -15,10 +15,10 @@
     "eslint": "8.34.0",
     "eslint-config-next": "13.1.6",
     "next": "13.1.6",
-    "react": "18.2.0",
+    "react": "^18.2.0",
     "react-animated-text": "^0.1.4",
     "react-bootstrap": "^2.7.2",
-    "react-dom": "18.2.0",
+    "react-dom": "^18.2.0",
     "react-responsive-masonry": "^2.1.7"
   },
   "devDependencies": {
