@@ -12,11 +12,10 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Specialization in Front-End Development + JS frameworks.
-            I also write + work rooms in the flesh.
+            Specialization in Front-End Development, JS frameworks & working rooms in the flesh.
           </p>
           <br/>
-          <p>Scroll below.</p> 
+          {/* <p>Scroll below.</p>  */}
         </div>
         <div>
           <p className="sm:text-3xl text-2xl font-medium text-white text-center mb-4">Technical Skills</p>

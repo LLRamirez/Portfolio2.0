@@ -18,9 +18,9 @@ export default function About() {
               <br className="hidden lg:inline-block" />
               
               <div class="text-white pt-12">
-             <ul class="text-4xl font-semibold pb-3">I Engineer</ul>
+             <ul class="text-4xl font-semibold pb-3">I Code</ul>
              <a href="#projects" class="hover:text-white text-decoration:none">
-                <li class="list-none text-xl font-extralight text-white"><span class="blinking">_</span>Code (web/mobile)
+                <li class="list-none text-xl font-extralight text-white"><span class="blinking">_</span>Sites / Apps
                 <svg 
                 xmlns="http://www.w3.org/2000/svg" 
                 class="h-6 w-6 inline pb-1 pt-1 yahGreen" 
