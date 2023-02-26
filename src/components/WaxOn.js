@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import Modal from 'react-modal';
+import Image from 'next/image'
+
 
 export default function WaxOn(){
     let subtitle;
@@ -22,7 +24,7 @@ export default function WaxOn(){
             
 <div>
 
-<img
+<Image
 className="object-cover object-center rounded"
 alt="jp-temple-nagoya"
 src="./japantemple.jpg"
@@ -42,7 +44,7 @@ contentLabel="onRequestClose Example"
 <div>sdaskdjaslkjdhakljshd Bunch of stories and stuff I write</div>
 
 <div>
-<img
+<Image
 className="object-cover object-center rounded"
 alt="jp-temple-nagoya"
 src="./japantemple.jpg"
