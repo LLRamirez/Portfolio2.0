@@ -43,7 +43,7 @@ const images = [
   "./boatbkk.jpg",
   "./thaisoup.jpg",
   "./skii.jpg",
-  "./maryblk.jpg",
+  "./moz-boat.jpg"
 ]
 
   return (

@@ -20,19 +20,19 @@ export default function App({posts}) {
       <About/>
       <Projects/>
       <Skills/>
-      <Photography/>
      
-      <div className="posts">
+      <div className="posts rounded yahGreen m-auto w-5/6">
       <div>
-          <p className="sm:text-3xl text-2xl font-medium text-white text-center mb-4 pt-8">Blog</p>
+          <p className="sm:text-3xl text-xl font-medium text-white text-center mb-4 pt-8">Blog</p>
         </div>
-      <div>
+      <div className="border-4 border-white rounded p-1">
         {posts.map((post, index) => (
           <Post key={index} post={post} />
         ))}
         </div>
       </div>
-
+      
+      <Photography/>
       <Contact/>
     </main>
   );

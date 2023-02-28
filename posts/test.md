@@ -2,7 +2,7 @@
 title: 'Test post'
 date: 'June 24 2021'
 excerpt: 'This is the excerpt'
-cover_image: '/public/bkk.jpg'
+cover_image: '/hammock.jpg'
 ---
 
 ## Heading Two

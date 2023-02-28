@@ -2,7 +2,7 @@
 title: 'Mozambique Adventures'
 date: 'November 24, 2022'
 excerpt: 'What was supposed to be a 2 week trip truend into a month!'
-cover_image: '/public/ayabed.jpg'
+cover_image: '/moz-boat.jpg'
 ---
 
 Lorem [markdownum](http://insunt.org/inpositaque), et sanguine rutilos dixit
