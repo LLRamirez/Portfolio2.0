@@ -37,7 +37,7 @@ export default function About() {
                 <li class="list-none text-xl font-extralight text-white"><span class="blinking">_</span>UI/UX (Infographics)</li>
                 </a>
                 <ul class="text-4xl font-semibold pb-3 pt-6">I Advocate</ul>
-                <a href="https://www.cweonline.org/About-CWE/CWE-Staff/Staff-Detail/dirID/1069/a/Staff" rel="job site CWE" target='_blank'>
+                <a href="https://www.cweonline.org/About-CWE/CWE-Staff/Staff-Detail/dirID/1069/a/Staff" rel="opener" target='_blank'>
                 <li class="list-none text-xl font-extralight text-white"><span class="blinking">_</span>CWE 
                 <svg 
                 alt="neon arrow pointing right"

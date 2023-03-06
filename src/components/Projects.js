@@ -11,7 +11,7 @@ export default function Projects() {
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
             Code</h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-          Front End Development. For more projects check out my <a href="https://github.com/LLRamirez"  rel="git link" target="_blank"><u>Github.</u></a> (See older stuff <a href="https://github.com/Linrmz007" rel="other git page" target="_blank"><u>here</u></a> )
+          Front End Development. For more projects check out my <a href="https://github.com/LLRamirez"  rel="opener" target="_blank"><u>Github.</u></a> (See older stuff <a href="https://github.com/Linrmz007" rel="opener" target="_blank"><u>here</u></a> )
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
