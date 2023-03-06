@@ -10,7 +10,7 @@ export default function About() {
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
             
               <div class="flex font-link-bold flex-col">
-              <ul class="text-4xl text-white font-semibold pt-6 pb-3 md:pt-0">Hola, I'm</ul>
+              <ul class="text-4xl text-white font-semibold pt-6 pb-3 md:pt-0">Hola, I&apos;'m</ul>
               <h1
               class="font-bold text-6xl md:text-8xl shadow"
               >Lindsey</h1>
@@ -37,7 +37,7 @@ export default function About() {
                 <li class="list-none text-xl font-extralight text-white"><span class="blinking">_</span>UI/UX (Infographics)</li>
                 </a>
                 <ul class="text-4xl font-semibold pb-3 pt-6">I Advocate</ul>
-                <a href="https://www.cweonline.org/About-CWE/CWE-Staff/Staff-Detail/dirID/1069/a/Staff" target='_blank'>
+                <a href="https://www.cweonline.org/About-CWE/CWE-Staff/Staff-Detail/dirID/1069/a/Staff" rel="job site CWE" target='_blank'>
                 <li class="list-none text-xl font-extralight text-white"><span class="blinking">_</span>CWE 
                 <svg 
                 alt="neon arrow pointing right"
