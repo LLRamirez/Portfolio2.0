@@ -21,7 +21,7 @@ export default function About() {
               
               <div class="text-white pt-12">
              <ul class="text-4xl font-semibold pb-3">I Code</ul>
-             <a href="#projects" class="hover:text-white text-decoration:none">
+             <a href="#projects"  rel="noopener" class="hover:text-white text-decoration:none">
                 <li class="list-none text-xl font-extralight text-white"><span class="blinking">_</span>Sites / Apps
                 <svg 
                 xmlns="http://www.w3.org/2000/svg" 
@@ -37,7 +37,7 @@ export default function About() {
                 <li class="list-none text-xl font-extralight text-white"><span class="blinking">_</span>UI/UX (Infographics)</li>
                 </a>
                 <ul class="text-4xl font-semibold pb-3 pt-6">I Advocate</ul>
-                <a href="https://www.cweonline.org/About-CWE/CWE-Staff/Staff-Detail/dirID/1069/a/Staff" rel="opener" target='_blank'>
+                <a href="https://www.cweonline.org/About-CWE/CWE-Staff/Staff-Detail/dirID/1069/a/Staff" rel="noopener">
                 <li class="list-none text-xl font-extralight text-white"><span class="blinking">_</span>CWE 
                 <svg 
                 alt="neon arrow pointing right"
@@ -53,7 +53,7 @@ export default function About() {
                 <li class="list-none text-xl font-extralight">_Blog, Media </li> 
                 </a> */}
                 <ul class="text-4xl font-semibold pb-3 pt-6">I Travel</ul>
-                <a href="#travel" class="hover:text-white">
+                <a href="#travel"  rel="noopener" class="hover:text-white">
                 <li class="list-none text-xl font-extralight text-white"><span class="blinking">_</span>Wax on | Wax off
                 <svg 
                 alt="neon arrow pointing right"
@@ -64,7 +64,7 @@ export default function About() {
 </svg>
                 </li> 
                 </a>
-                <a href="#travel" class="hover:text-white">
+                <a href="#travel"  rel="noopener" class="hover:text-white">
                   <li class="list-none text-xl font-extralight text-white"><span class="blinking">_</span>Modelo</li>
                 </a>
                 </div>
