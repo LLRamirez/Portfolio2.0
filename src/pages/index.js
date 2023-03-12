@@ -18,9 +18,8 @@ export default function App({posts}) {
     <main class="font-link text-gray-400 bg-gray-900 body-font overflow-hidden">
       <About/>
       <Projects/>
-      <Skills/>
-     
-      <div className="yahGreen m-auto flex flex-col items-cemter">
+      <Skills/> 
+      <div className="flex flex-col items-center yahGreen m-auto">
         <div>
           <div>
               <p className="sm:text-3xl text-xl font-medium text-white text-center mb-4 pt-8">Wax On | Wax 0ff</p>
@@ -31,8 +30,7 @@ export default function App({posts}) {
             ))}
           </div>
         </div>
-    </div>
-      
+      </div>
       <Photography/>
       <Contact/>
     </main>

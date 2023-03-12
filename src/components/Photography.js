@@ -37,13 +37,11 @@ const images = [
   "./cave.jpg",
   "./Dadbeach.jpg",
   "./Bar.png",
-  "./balconyDR.jpg",
   "./smileside.png",
   "./mofongo.jpg",
   "./boatbkk.jpg",
   "./thaisoup.jpg",
   "./skii.jpg",
-  "./moz-boat.jpg"
 ]
 
   return (
