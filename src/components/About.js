@@ -10,7 +10,7 @@ export default function About() {
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
             
               <div class="flex font-link-bold flex-col">
-              <ul class="text-4xl text-white font-semibold pt-6 pb-3 md:pt-0">Hola, I&apos;'m</ul>
+              <ul class="text-4xl text-white font-semibold pt-6 pb-3 md:pt-0">Hola, soy</ul>
               <h1
               class="font-bold text-6xl md:text-8xl shadow"
               >Lindsey</h1>

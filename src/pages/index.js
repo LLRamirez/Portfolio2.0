@@ -20,16 +20,18 @@ export default function App({posts}) {
       <Projects/>
       <Skills/>
      
-      <div className="posts rounded yahGreen m-auto">
-      <div>
-          <p className="sm:text-3xl text-xl font-medium text-white text-left mb-4 pt-8">Blog</p>
+      <div className="yahGreen m-auto flex flex-col items-cemter">
+        <div>
+          <div>
+              <p className="sm:text-3xl text-xl font-medium text-white text-center mb-4 pt-8">Wax On | Wax 0ff</p>
+          </div>
+          <div className="rounded p-1">
+            {posts.map((post, index) => (
+              <Post key={index} post={post} />
+            ))}
+          </div>
         </div>
-      <div className="rounded p-1">
-        {posts.map((post, index) => (
-          <Post key={index} post={post} />
-        ))}
-        </div>
-      </div>
+    </div>
       
       <Photography/>
       <Contact/>

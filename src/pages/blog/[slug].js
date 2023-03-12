@@ -10,15 +10,18 @@ export default function PostPage({frontmatter: {
     title, date, cover_image
 }, slug, content}){
     return ( 
-    <div>
-    <a className='btn btn-back'>Go Back</a>
- 
+    <div className='p-8 flex justify-center bg-gray-900 yahGreen'>
+    <div className=''>
+        <div className='pb-6 text-blue'>
+            <a href={`/`} className='btn btn-back pb-6'>Go Back</a>
+        </div>
         <div className='card card-page'>
-            <h1 className='post-title'>{title}</h1>
-            <div className='post-date'>Posted on {date}</div>
+            <h1 className='text-2xl'>{title}</h1>
+            <div className='post-date pb-6 text-sm'>Posted on {date}</div>
             <img src={cover_image} alt='cover-image' />
-            <div className='post-body'>
-            <div dangerouslySetInnerHTML={{ __html: marked.parse(content) }}></div>
+            <div className='pt-6'>
+            <div dangerouslySetInnerHTML={{ __html: marked.parse(content)}}></div>
+            </div>
         </div>
     </div>
   </div>
