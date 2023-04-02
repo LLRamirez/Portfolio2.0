@@ -19,7 +19,7 @@ export default function Contact() {
         <div className="text-3xl text-white shadow flex flex-row justify-center underline underline-offset-2 pt-8">
           
           <Mailto email="linlidiaramirez@gmail.com" subject="Potential collab" body="">
-            <Wave text="Let's Join Forces" effect="stretch" effectChange={2.0} />
+            <Wave text="Join Forces Here" effect="stretch" effectChange={2.0} />
             
             </Mailto>
             
