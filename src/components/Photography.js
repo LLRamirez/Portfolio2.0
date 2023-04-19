@@ -35,6 +35,7 @@ const images = [
   "./menlonshaman.jpg",
   "./cave.jpg",
   "./Dadbeach.jpg",
+  "./tallMe.jpg",
   "./Bar.png",
   "./mofongo.jpg",
   "./boatbkk.jpg",

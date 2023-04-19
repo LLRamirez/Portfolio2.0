@@ -22,7 +22,8 @@
     "react-animated-text": "^0.1.4",
     "react-bootstrap": "^2.7.2",
     "react-dom": "^18.2.0",
-    "react-responsive-masonry": "^2.1.7"
+    "react-responsive-masonry": "^2.1.7",
+    "vercel": "^28.18.4"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
